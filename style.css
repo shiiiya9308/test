@@ -1,0 +1,38 @@
+
+body {
+  margin: 0px;
+}
+
+.top{
+background-color: rgb(250, 208, 250);
+height: 220px;
+padding:20px;
+color:rgb(10, 10, 10)
+
+}
+
+#yuko{
+  background-color: rgb(157, 185, 236);
+  height : 350px;
+  padding : 10px;
+  padding-left : 100px;
+}
+
+.yukomoji{
+float: right;
+padding:50px;
+padding-right:150px;
+}
+
+#shuya{
+  background-color: rgb(157, 185, 236);
+  height : 350px;
+  padding : 10px;
+  padding-left : 100px;
+}
+
+.shuyamoji{
+  float: right;
+  padding:50px;
+  padding-right:150px;
+  }
